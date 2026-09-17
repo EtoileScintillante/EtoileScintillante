@@ -3,8 +3,7 @@
 - Name: Esma 
 - Age: 26
 - Location: The Netherlands 🇳🇱
-- Full-time university student (Master Information Sciences)
-- Part-time software engineer at a Dutch insuretech startup
+- Software engineer at a Dutch insuretech startup
 - Interests: Game development, AI/ML, Algorithmic trading 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6D8CF7C&size=20&center=&vCenter=true&width=1000&&lines=Tech+stack)](https://git.io/typing-svg)
@@ -12,11 +11,11 @@
 
 At my job I work mostly with:
 
-[![My Skills](https://skillicons.dev/icons?i=py,terraform,java,azure,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,terraform,azure,react,kubernetes,docker)](https://skillicons.dev)
 
 When it comes to personal projects, I like to use:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,cs)](https://skillicons.dev)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6D8CF7C&size=20&center=&vCenter=true&width=1000&&lines=GitHub+stats)](https://git.io/typing-svg)
 --
